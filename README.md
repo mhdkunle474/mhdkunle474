@@ -18,8 +18,12 @@ I always communicate with the stakeholders in order to understand the business o
 * Tableau
 * Power BI
 * Data Wrangling
-*Data Visualization
+* Data Visualization
 
+# Contact
+mo.adelani@gmail.com
+https://www.linkedin.com/in/muhydeen-adelani-b01b3ab2/
+ 
 <!--
 **mhdkunle474/mhdkunle474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
